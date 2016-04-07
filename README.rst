@@ -1,3 +1,11 @@
+This repository will not be updated anymore.
+--------------------------------------------
+Please visit `getpelican/feedgenerator <https://github.com/getpelican/feedgenerator.git>`_ for a current and maintained version.
+---------------------------------------------------------------------------
+
+
+
+
 feedgenerator-py3k
 ==================
 
